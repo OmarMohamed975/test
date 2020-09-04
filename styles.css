@@ -1,0 +1,29 @@
+body{
+
+    background-color: 	powderblue;
+
+
+}
+hr{
+    border-color: gray;
+
+border-style:none ;
+height: 5px;
+border-top-style: dotted;
+width: 5%;
+ border-width: 5px;
+
+
+
+
+}
+
+h1{
+
+    color: #66bfbf;
+    text-align: center;
+}
+h3{
+    text-align: left;
+    color:#66bfbf ;
+}
